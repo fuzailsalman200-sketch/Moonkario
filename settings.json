@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "macevault.play.hosting",
-    "port": 25578,
+    "port": ,
     "version": "1.21.11"
   },
   "position": {
